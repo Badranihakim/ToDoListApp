@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Badranihakim/static/css/main.ad198563.css",
+    "main.js": "/Badranihakim/static/js/main.e0fe0ad1.js",
+    "index.html": "/Badranihakim/index.html",
+    "main.ad198563.css.map": "/Badranihakim/static/css/main.ad198563.css.map",
+    "main.e0fe0ad1.js.map": "/Badranihakim/static/js/main.e0fe0ad1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad198563.css",
+    "static/js/main.e0fe0ad1.js"
+  ]
+}
